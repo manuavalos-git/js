@@ -32,10 +32,6 @@ window.onload= () => {
                     break;  
                 default:;
             }
-            /*if(listaElem[i]==='BORRAR'||listaElem[i]==='mica'){
-                listaElem=[];
-                listHTML.innerHTML='';
-            }*/
         }
     }
 }
