@@ -25,7 +25,7 @@ window.onload= () => {
                     listaElem=[];
                     listHTML.innerHTML='';
                     break;    
-                case  "chota":
+                case  "pachu":
                     listaElem=[];
                     listHTML.innerHTML='';
                     listHTML.innerHTML+= "<img id='foto' src='https://noticiasargentinas.com/media/k2/items/cache/5941d9671fa6454b219d189bd4d2e17e_XL.jpg?t=20210315_184729' / > "
